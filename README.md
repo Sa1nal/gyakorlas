@@ -1,1 +1,2 @@
 # gyakolas
+# index html létehazása
