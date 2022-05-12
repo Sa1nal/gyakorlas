@@ -1,2 +1,2 @@
 # gyakolas
-# index html létehazása
+# index html létrehazása
